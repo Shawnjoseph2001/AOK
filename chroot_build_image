@@ -1,4 +1,4 @@
-#!/bin/ash
+#!/usr/local/bin/dash
 # Simple wrapper script to build iSH root image in a chroot
 
 # Check to be sure we are not running this in /tmp/AOK
